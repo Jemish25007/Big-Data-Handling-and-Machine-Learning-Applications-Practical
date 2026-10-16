@@ -1,0 +1,2 @@
+# Big-Data-Handling-and-Machine-Learning-Applications-Practical
+Implementations for DS-505 Big Data &amp; ML: • Large data hygiene, downcasting &amp; chunking via Pandas • Distributed transforms, aggregations &amp; Parquet with PySpark • ML pipelines: scaling, imputation, regression &amp; classification via Scikit-Learn • NLP tokenization, sentiment analysis &amp; summarization with Hugging Face Transformers
